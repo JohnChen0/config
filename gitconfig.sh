@@ -1,3 +1,6 @@
+git config --global user.name "John Chen"
+git config --global user.email john_chen@outlook.com
+
 git config --global alias.br branch
 git config --global alias.ci commit
 git config --global alias.co checkout
